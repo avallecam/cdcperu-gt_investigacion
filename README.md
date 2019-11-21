@@ -4,7 +4,7 @@ El material aquí compartido contiene material __no publicado__ .
 
 __No usar el contenido sin contactarse a los autores previamente__
 
-## Contacto: César V. Munayco cmunayco@dge.gob.pe
+__Contacto: César V. Munayco cmunayco@dge.gob.pe__
 
 ## link a poster [anemia](https://raw.githubusercontent.com/avallecam/cdcperu-gt_investigacion/master/poster%20estudio%20anemia%20final.jpg)
 
