@@ -1,14 +1,12 @@
-# CDC-PERÚ GT-Invetigación
+# CDC-PERÚ GT-Investigación
 
-El material aquí compartido contiene material __no publicado__ . 
+El material aquí compartido contiene material __no publicado__. 
 
-__No usar el contenido sin contactarse a los autores previamente__
+__No usar el contenido sin contactarse a los autores previamente. Contacto: César V. Munayco cmunayco@dge.gob.pe__
 
 ## Link a poster: [Anemia](https://raw.githubusercontent.com/avallecam/cdcperu-gt_investigacion/master/poster%20estudio%20anemia%20final.jpg)
 
-## Link a poster: [Guillain-Barré](https://raw.githubusercontent.com/avallecam/cdcperu-gt_investigacion/master/20191120-poster-SGB-INSv3.jpg)
-
-## Contacto: César V. Munayco cmunayco@dge.gob.pe
+## Link a poster: [GuillainBarré](https://raw.githubusercontent.com/avallecam/cdcperu-gt_investigacion/master/20191120-poster-SGB-INSv3.jpg)
 
 ## Referencias
 
