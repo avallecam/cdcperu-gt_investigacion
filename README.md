@@ -1,14 +1,12 @@
 # CDC-PERÚ GT-Investigación
 
-El material aquí compartido contiene material __no publicado__. 
+El material aquí compartido contiene material __no publicado__. Licencia [CC BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 __No usar el contenido sin contactarse a los autores previamente. Contacto: César V. Munayco cmunayco@dge.gob.pe__
 
 ## Link a poster: [Anemia](https://raw.githubusercontent.com/avallecam/cdcperu-gt_investigacion/master/poster%20estudio%20anemia%20final.jpg)
 
 ## Link a poster: [SGB](https://raw.githubusercontent.com/avallecam/cdcperu-gt_investigacion/master/20191120-poster-SGB-INSv3.jpg)
-
-## Licencia: [CC BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 ## Referencias
 
