@@ -6,7 +6,7 @@ __No usar el contenido sin contactarse a los autores previamente. Contacto: Cés
 
 ## Link a poster: [Anemia](https://raw.githubusercontent.com/avallecam/cdcperu-gt_investigacion/master/poster%20estudio%20anemia%20final.jpg)
 
-## Link a poster: [GuillainBarré](https://raw.githubusercontent.com/avallecam/cdcperu-gt_investigacion/master/20191120-poster-SGB-INSv3.jpg)
+## Link a poster: [SGB](https://raw.githubusercontent.com/avallecam/cdcperu-gt_investigacion/master/20191120-poster-SGB-INSv3.jpg)
 
 ## Referencias
 
