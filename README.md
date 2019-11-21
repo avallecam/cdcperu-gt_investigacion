@@ -8,6 +8,8 @@ __No usar el contenido sin contactarse a los autores previamente. Contacto: Cés
 
 ## Link a poster: [SGB](https://raw.githubusercontent.com/avallecam/cdcperu-gt_investigacion/master/20191120-poster-SGB-INSv3.jpg)
 
+## Licencia: [CC BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
 ## Referencias
 
 - small area disease risk estimation: https://journal.r-project.org/archive/2018/RJ-2018-036/index.html
