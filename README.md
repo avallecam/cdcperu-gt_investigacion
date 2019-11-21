@@ -6,9 +6,9 @@ __No usar el contenido sin contactarse a los autores previamente__
 
 ## Contacto: César V. Munayco cmunayco@dge.gob.pe
 
-## link a poster anemia
+## link a poster [anemia](https://github.com/avallecam/cdcperu-gt_investigacion/blob/master/poster%20estudio%20anemia%20final.pdf)
 
-## link a poster Sindrome Guillain-Barré
+## link a poster [Sindrome Guillain-Barré](https://github.com/avallecam/cdcperu-gt_investigacion/blob/master/20191120-poster-SGB-INSv3.pdf)
 
 ### referencias
 
