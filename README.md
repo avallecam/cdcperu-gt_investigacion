@@ -4,13 +4,13 @@ El material aquí compartido contiene material __no publicado__ .
 
 __No usar el contenido sin contactarse a los autores previamente__
 
-__Contacto: César V. Munayco cmunayco@dge.gob.pe__
+## Link a poster: [Anemia](https://raw.githubusercontent.com/avallecam/cdcperu-gt_investigacion/master/poster%20estudio%20anemia%20final.jpg)
 
-## link a poster [anemia](https://raw.githubusercontent.com/avallecam/cdcperu-gt_investigacion/master/poster%20estudio%20anemia%20final.jpg)
+## Link a poster: [Guillain-Barré](https://raw.githubusercontent.com/avallecam/cdcperu-gt_investigacion/master/20191120-poster-SGB-INSv3.jpg)
 
-## link a poster [Sindrome Guillain-Barré](https://raw.githubusercontent.com/avallecam/cdcperu-gt_investigacion/master/20191120-poster-SGB-INSv3.jpg)
+## Contacto: César V. Munayco cmunayco@dge.gob.pe
 
-## referencias
+## Referencias
 
 - small area disease risk estimation: https://journal.r-project.org/archive/2018/RJ-2018-036/index.html
 
