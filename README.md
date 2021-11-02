@@ -10,6 +10,6 @@ __No usar el contenido sin contactarse a los autores previamente. Contacto: Cés
 
 ## Referencias
 
-- small area disease risk estimation: https://journal.r-project.org/archive/2018/RJ-2018-036/index.html
+- small area disease risk estimation: [https://journal.r-project.org/archive/2018/RJ-2018-036/index.html](https://journal.r-project.org/archive/2018/RJ-2018-036/index.html)
 
-- formato de poster: https://www.npr.org/sections/health-shots/2019/06/11/729314248/to-save-the-science-poster-researchers-want-to-kill-it-and-start-over
+- formato de poster: [ttps://www.npr.org/sections/health-shots/2019/06/11/729314248/to-save-the-science-poster-researchers-want-to-kill-it-and-start-over](https://www.npr.org/sections/health-shots/2019/06/11/729314248/to-save-the-science-poster-researchers-want-to-kill-it-and-start-over)
